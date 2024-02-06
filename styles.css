@@ -1,0 +1,31 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+   font-family: 'Roboto', sans-serif;
+}
+main{
+    margin: 1rem 0.5rem;
+    text-align: center;
+}
+
+#labelHeading{
+    margin:1rem 0.8rem;
+    color: #25737b;
+}
+
+#buttonGenQuote{          
+    background-color: #54adb7; 
+    border: none;
+    color: white;
+    padding: 1rem 2.5rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#labelOutput{
+    margin: 2rem auto;
+}
